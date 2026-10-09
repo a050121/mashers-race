@@ -1,0 +1,16 @@
+{
+  "name": "Mix-Up Mashers Race",
+  "short_name": "Mashers Race",
+  "description": "A board game designed by Jordan. Build a mashup hero and race to the finish!",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1a2150",
+  "theme_color": "#1a2150",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
